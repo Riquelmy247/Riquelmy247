@@ -3,7 +3,6 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando mais a lógica para usar outras linguagens
-- 😄 Pronomes: ele/dele
 - ⚡ Curiosidades: Eu sou muito curioso então quando tem algo novo sempre busco conhecer sobre
 
 <div>
